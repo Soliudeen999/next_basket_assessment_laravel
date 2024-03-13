@@ -48,7 +48,6 @@ Start the App Server
 
 `php artisan serve`
 
-Run `php artisan sail:install --devcontainer` and `./vendor/bin/sail up` for running with Docker
 
 
 ## Server Requirements
